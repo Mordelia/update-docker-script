@@ -1,0 +1,8 @@
+# Python dependencies for Docker Update Checker
+# Installed automatically on first run, or manually via: pip install -r requirements.txt
+
+docker>=6.0.0
+
+# curses is built into Python on Linux/macOS
+# On Windows, install the following instead:
+# windows-curses
